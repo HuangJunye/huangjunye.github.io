@@ -12,4 +12,4 @@ permalink: /talks/
 
 - Nov 7 - I shared my experience of organizing the first university Qiskit hackathon (Qiskit Hackathon @ Singapore) with fellow Qiskit advocates ([slides](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)).
 
-- Oct 11 - My first ever public talk! I gave an introduction to how to make games with Qiskit ([slides](https://slides.com/huangjunye/qiskit_game)) at Qiskit Hackathon @ Singapore. 
+- Oct 11 - My first ever public talk! I gave an introduction to how to make games with Qiskit ([slides](https://slides.com/huangjunye/qiskit_game)) at Qiskit Hackathon @ Singapore.
