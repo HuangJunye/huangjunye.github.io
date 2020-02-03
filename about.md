@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
+![alt text](https://github.com/huangjunye.png)
+
 I live in Singapore and work at IBM [Qiskit](https://qiskit.org/) as Quantum Developer Advocate.
 
 I'm passionate about making quantum computing more accessible to the public, by making games, conducting workshops and teaching.
 
-### 5 Random Facts About Me
+## 5 Random Facts About Me
 
 1. I was born and raised in Qingyuan City, Guangdong Province, China.
 
@@ -20,8 +22,8 @@ I'm passionate about making quantum computing more accessible to the public, by 
 
 1. At one point in my life, I could (sadly, not any more) type sentences in [braille](https://en.wikipedia.org/wiki/Braille) at one time, when I was a volunteer teacher in a visual impaired school at Kenya.
 
-### Contact me
+## Contact me
 
-[Twitter](https://twitter.com/HuangJunye)
-[Github](https://github.com/HuangJunye)
-[Email](mailto:h.jun.ye@gmail.com)
+- [Twitter](https://twitter.com/HuangJunye)
+- [Github](https://github.com/HuangJunye)
+- [Email](mailto:h.jun.ye@gmail.com)
