@@ -6,7 +6,7 @@ permalink: /talks/
 
 ## 2020
 
-- Feb 2 - My first talk in superposition! The talk happened in Hyderabad and Delhi at the same time. (via conference call, of course). I shared my personal journey with Qiskit ([slides](https://slides.com/huangjunye/qiskit_journey)) as well as an updated talk on how to make games with Qiskit ([slides](https://slides.com/huangjunye/qiskit_game)).
+- Feb 2 - My first talk in superposition! The talk happened in Hyderabad and Delhi ([IndiQ meetups](https://twitter.com/IndiQmeetups)) at the same time (via conference call, of course). I shared my personal journey with Qiskit ([slides](https://slides.com/huangjunye/qiskit_journey)) as well as an updated talk on how to make games with Qiskit ([slides](https://slides.com/huangjunye/qiskit_game)).
 
 ## 2019
 
