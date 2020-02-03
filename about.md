@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text](https://github.com/huangjunye.png)
+<img src="https://github.com/huangjunye.png" width="200" height="200" />
 
 I live in Singapore and work at IBM [Qiskit](https://qiskit.org/) as Quantum Developer Advocate.
 
