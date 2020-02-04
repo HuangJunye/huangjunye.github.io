@@ -10,9 +10,9 @@ I'm passionate about making quantum computing more accessible to the public, by 
 
 ## 5 Random Facts About Me
 
-1. My hometown is Qingyuan City, Guangdong Province, China.
+1. Call me Junye, not Huang.
 
-1. I made [QPong](https://github.com/HuangJunye/QPong), a quantum version of the classic video game Pong.
+1. My hometown is Qingyuan City, Guangdong Province, China.
 
 1. I collect retro games and game consoles as a hobby.
 
