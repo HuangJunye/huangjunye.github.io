@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Talks
-permalink: /talks/
+title: Events & Talks
+permalink: /events/
 ---
 
 ## 2020
