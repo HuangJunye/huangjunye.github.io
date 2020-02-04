@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://github.com/huangjunye.png" width="200" height="200" />
-
 I live in Singapore and work at IBM [Qiskit](https://qiskit.org/) as Quantum Developer Advocate.
 
 I'm passionate about making quantum computing more accessible to the public, by making games, conducting workshops and teaching.
