@@ -107,7 +107,18 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+// for image with caption
+img + em { 
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: gray;
+  font-size: smaller;
 }
 
 // Fixes images in popup boxes from Google Translate
