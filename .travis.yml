@@ -15,6 +15,7 @@ script: ./script/cibuild
 branches:
   only:
   - master     # test the master branch
+  - travis
 
 env:
   global:
