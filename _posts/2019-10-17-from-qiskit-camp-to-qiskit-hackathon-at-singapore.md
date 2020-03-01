@@ -21,7 +21,7 @@ Before the Qiskit Camp last March, I had no experience in software or game devel
 
 Since then, QPong has been [demoed in a museum](https://twitter.com/JavaFXpert/status/1114626404778426370), ported to the [IBM Quantum Arcade machine](https://twitter.com/HuangJunye/status/1172196396721532928) and [featured on YouTube](https://www.youtube.com/watch?v=a1NZC5rqQD8&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY). It even got me [an invitation to CERN](https://indico.cern.ch/event/838035/). Now, some call me the "QPong guy"!
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/a1NZC5rqQD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-container" style="text-align: center;"><iframe id="frame" width="560" height="315" src="https://www.youtube.com/embed/a1NZC5rqQD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 As you can imagine, the unexpected journey after the Camp has completely changed my career. I will write more about it in a separate article. Stay tuned!
 
