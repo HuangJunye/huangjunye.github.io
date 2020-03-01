@@ -5,7 +5,7 @@ categroies: [qiskit]
 tags: [qiskit, hackathon, cqt]
 ---
 ![Qiskit Hackathon @ Singapore Participants and Organizers](/images/qiskit_hackathon_sg/group_photo.jpeg)
-*Qiskit Hackathon @ Singapore Participants & Organizers (Photo: [Centre for Quantum Technologies](https://twitter.com/quantumlah/status/1182998647337820160))*
+*Qiskit Hackathon @ Singapore Participants & Organizers*
 
 Last weekend (11–12 Oct), over 40 participants had great fun hacking in Singapore with IBM Qiskit coaches from Tokyo and New York. This was the first ever community-driven Qiskit hackathon, organised by Evon Tan (CQT), Anurag Saha Roy and myself with technical support from IBM Qiskit team. The event was held at the Centre for Quantum Technologies (CQT).
 
