@@ -10,7 +10,7 @@ permalink: /events/
 
 ## 2019
 
-- **Qiskit Advocate Online Demo** (Nov 7) - I shared my experience of organizing the first university Qiskit hackathon (Qiskit Hackathon @ Singapore) with fellow Qiskit advocates ([slides](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon)).
+- **Qiskit Advocate Online Demo** (Nov 7) - I shared my experience of organizing the first university Qiskit hackathon (Qiskit Hackathon @ Singapore) with fellow Qiskit advocates ([slides](https://slides.com/huangjunye/how-to-organize-a-qiskit-hackathon), [video](https://www.youtube.com/watch?v=c46_LxO5mo4)).
 
 - **[Quantum Future Hackathon](https://indico.cern.ch/event/838035/)** (Oct 18-20)
   - I was invited by the organizer Oday Darwich participate in this hackathon at CERN. As a physicist (self-proclaimed), visiting CERN is a dream come true. I visited the CMS detector where the Higgs boson was discovered!
