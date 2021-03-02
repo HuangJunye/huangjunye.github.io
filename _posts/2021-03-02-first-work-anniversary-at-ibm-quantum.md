@@ -45,10 +45,10 @@ We have the [Qiskit advocate program](https://qiskit.org/advocates/) with 200+ a
 
 Apart from the community team, I also feel really fortunate and proud to be part of the wider IBM Quantum team. Our team has recently released roadmaps for [hardware](https://www.ibm.com/blogs/research/2020/09/ibm-quantum-roadmap/) and [software](https://www.ibm.com/blogs/research/2021/02/quantum-development-roadmap/). The roadmaps show a clear vision of the quantum future and how to get there: laser annealing reducing qubit frequency spread, readout multiplexing, through-silicon vias, heavy hexagon code, interconnects, superfridge, OpenQASM3, Qiskit runtime, dynamic circuit, circuit library, pre-built runtimes. Even though I am not directly involved in these innovations, I feel proud to be part of the larger team that is driving this vision.
 
-![IBM Quantum Hardware Roadmap](https://live.staticflickr.com/65535/50352242177_57bd5c9c6a_b.jpg)
+![IBM Quantum Hardware Roadmap](/images/first_work_anniversary/ibm_quantum_hardware_roadmap.png)
 *IBM Quantum Hardware Roadmap*
 
-![IBM Quantum Development Roadmap](https://live.staticflickr.com/65535/50863431103_378b9bb463_b.jpg)
+![IBM Quantum Development Roadmap](/images/first_work_anniversary/ibm_quantum_development_roadmap.png)
 *IBM Quantum Development Roadmap*
 
 #### Cool swags
