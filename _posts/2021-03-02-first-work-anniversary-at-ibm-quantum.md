@@ -62,15 +62,11 @@ Another perk of joining this great team is receiving a lot of cool swags!
 
 ### Learning a lot more about QC than I was during grad school
 
-I enjoyed and learned more about QC than when I was in grad school.
+During the last year, I enjoyed and learned more about QC than when I was in grad school.
 
-My PhD was on physical realization of Majorana bound states using 2D materials and van der Waals heterostructure. While it is released to quantum computing, majority of the papers and knowledge I gained is the condensed matter physics behind Majorana bound states, not so much about quantum information processing. Most of my QC knowledge was gained by taking a graduate course at CQT.
+My PhD was on physical realization of Majorana bound states using 2D materials and van der Waals heterostructure. While it is related to quantum computing, majority of the papers and knowledge I gained is the condensed matter physics behind Majorana bound states, not so much about quantum information processing. Most of my QC knowledge was gained by taking a graduate course at CQT.
 
-After joining IBM Quantum I learned much more about QC. Firstly, part of my job is to teach QC so I have to gain much deeper understanding than I did during grad school. Teaching is the best way of learning. When you start explaining a concept, you start to realize the gaps in your understanding.
-
-Last year I taught a series of 3 Qiskit workshops on quantum algorithms and applications. It forced me to understand Grover's algorithm and chemistry simulation using VQE much deeper than I did before.
-
-I also made the test for Qiskit advocate application. It helped me to get a deeper understanding of many concepts across different modules of Qiskit from circuit transpiration, error mitigation, pulse to optimization.
+After joining IBM Quantum I learned much more about QC. Firstly, part of my job is to teach QC so I have to gain much deeper understanding than I did during grad school. Teaching is the best way of learning. When you start explaining a concept, you start to realize the gaps in your understanding.Last year I taught a series of 3 Qiskit workshops on quantum algorithms and applications. It forced me to understand Grover's algorithm and chemistry simulation using VQE much deeper than I did before.I also made the test for Qiskit advocate application. It helped me to get a deeper understanding of many concepts across different modules of Qiskit from circuit transpiration, error mitigation, pulse to optimization.
 
 Working in IBM Quantum naturally gives me more exposures to the learning resources we create. Qiskit has a lot of free and open learning resources. I learn a lot from using the Qiskit textbook, joining Qiskit Global Summer School and attending Qiskit Circuit Sessions and Seminars.
 
@@ -80,13 +76,7 @@ I also read a lot more papers directly related to QC and QIP than during grad sc
 
 Related to the QC journal club mentioned above. IBM Quantum have a lot of great minds. They are just a Slack message away once you join the company. I can discuss the latest QC papers and trends with them directly. I can ask a Qiskit developer for help when I want a deeper insight of a Qiskit feature. I can get help easily when I need to make a pull request to Qiskit.
 
-Working in the community team and especially the Qiskit advocate program allows me to connect with passionate people outside IBM from different parts of the world. Again, it is just great to be among like minded people.
-
-Diego
-Soyoung
-Kareem
-Paveen
-Michał
+Working in the community team and especially the Qiskit advocate program allows me to connect with passionate people outside IBM from different parts of the world. Again, it is just great to be among like minded people. Here I want to give a shout out to these new friends: [Diego](https://twitter.com/diemilioser), [Soyoung](https://twitter.com/Sophy_Shin), [Kareem](https://twitter.com/Kero_qml) and [Michał](https://twitter.com/mstechly).
 
 ## Challenges
 Of course, last year was not an easy year for anyone on earth with the pandemic.
