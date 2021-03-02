@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From Qiskit Camp to Qiskit Hackathon @ Singapore
-categroies: [qiskit]
+categories: [qiskit]
 tags: [qiskit, hackathon, cqt]
 ---
 ![Qiskit Hackathon @ Singapore Participants and Organizers](/images/qiskit_hackathon_sg/group_photo.jpeg)

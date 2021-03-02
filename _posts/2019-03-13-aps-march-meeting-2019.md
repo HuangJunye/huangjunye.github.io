@@ -1,7 +1,7 @@
 ---
 layout: post
 title: APS March Meeting 2019
-categroies: []
+categories: []
 tags: []
 ---
 
