@@ -52,9 +52,12 @@ Apart from the community team, I also feel really fortunate and proud to be part
 *IBM Quantum Development Roadmap*
 
 #### Cool swags
-Another perk of joining this great team is receiving a lot of cool swags.
 
-[IBM Quantum Network swag]
+Another perk of joining this great team is receiving a lot of cool swags!
+
+![Candela and me with IBM Quantum t shirt](/images/first_work_anniversary/candela_and_me_ibm_quantum.jpg)
+
+![Candela with IBM Quantum t shirt](/images/first_work_anniversary/candela_ibm_quantum.jpg)
 
 
 ### Learning a lot more about QC than I was during grad school
