@@ -1,10 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: About Me
+modified: 2023-02-20
 ---
 
-I live in Singapore and work at IBM [Qiskit](https://qiskit.org/) as Quantum Developer Advocate.
+I live in Madrid, Spain and work at IBM Quantum as Quantum Developer Advocate for [Qiskit](https://qiskit.org/).
 
 I'm passionate about making quantum computing more accessible to the public, by making games, conducting workshops and teaching.
 
