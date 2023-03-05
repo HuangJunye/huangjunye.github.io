@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Projects
-permalink: /projects/
+title: My Projects
+modified: 2020-03-02
 ---
 
 ## Quantum Games
