@@ -12,7 +12,7 @@ params:
   profileMode:
     enabled: true
     subtitle: Quantum Developer Advocate, IBM Quantum
-    imageUrl: c
+    imageUrl: https://avatars.githubusercontent.com/u/7631333?v=4
   
   socialIcons:
     - name: KoFi
