@@ -1,14 +1,14 @@
 ---
-title: 3-Year Work Anniversary at IBM Quantum
-date: 2023-03-08
+title: Third Work Anniversary at IBM Quantum
+date: 2023-03-09
 tags:
 - ibm quantum
 - qiskit
 ---
 
-It's that time of the year again. Today is my 3-year working anniversary (Actually I am exactly 1 week late). It's hard to believe that it has been 3 years since I started working at IBM Quantum. But at the same time, the last 3 years felt like a lifetime, I guess not just for me, but also for most people in the world. When I started working in March 2020, COVID just got started and no one could anticipate that it would evolve into a global pandemic. Well, the good news is that, 3 years later, we have learned to live with it and things are getting back to normal though the "norm" will never be the same.
+It's that time of the year again. Today is my Third working anniversary (actually I am exactly 1 week late). It's hard to believe that it has been 3 years since I started working at IBM Quantum. But at the same time, the last 3 years felt like a lifetime, I guess it's not just for me, but also most people in the world. When I started working in March 2020, COVID just started and no one could anticipate that it would evolve into a global pandemic. Well, the good news is that, 3 years later, we have learned to live with it and things are getting back to normal though the "norm" will never be the same.
 
-I wrote [a blog post](({{< ref "first-work-anniversary-at-ibm-quantum" >}})) for my 1-year working anniversary. Initially I was planning to write every year. In fact I wrote a draft last year but I got lazy and the post never made it to the light. On the bright side, I have more things to say today :D.
+I wrote [a blog post]({{< ref "first-work-anniversary-at-ibm-quantum" >}}) for my 1-year working anniversary. I was planning to write every year. I wrote a draft last year but I got lazy and the post never made it to the light. On the bright side, I have more things to say today :D.
 
 ## Highlights
 
@@ -76,7 +76,7 @@ If you find this interesting ,feel free to duplicate the project board and start
 
 ## Official Celebration Page
 
-Lastly I want to share my 3-year IBM Service Anniversary celebration page. I didn't expect to receive so many heart-warming messages from colleagues. Thank you very much for making this job so awesome!
+Lastly I want to share my 3-year IBM Service Anniversary [celebration page](https://ibmrr.performnet.com/ibmrr/celebrationRecipient.do?clientState=IxWdHbAWxIUMwmIJJX6mdUKXzCMz4cxX0iIfJZBRLoyOzifglzuy7e8tJmg1SSjjMz%2BBM2KXMHxc%0A6YvTP1ULF4pidE7jAxG1r7Z1wdGoL%2BkFJP7cgoG9HnBUseYV9rpPsWxRjoEL0epJhBQFtqKYhoiQ%0AhkPoUUi1dLqpq7K73thKgNv73utSvta%2BOcxRQiHxCyZSZYnTU3eXTNhl&cryptoPass=1). I didn't expect to receive so many heart-warming messages from colleagues. Thank you very much for making this job so awesome!
 
 ![3-year IBM Service Anniversary](3-year-ibm-service-anniversary.png)
 
