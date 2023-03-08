@@ -1,12 +1,15 @@
 ---
 title: Third Work Anniversary at IBM Quantum
 date: 2023-03-09
+description: This is my third work anniversary at IBM Quantum. I want to share some highlights and thoughts for the last two years.
+images: 
+- 3-year-ibm-service-anniversary-header.png
 tags:
 - ibm quantum
 - qiskit
 ---
 
-It's that time of the year again. Today is my Third working anniversary (actually I am exactly 1 week late). It's hard to believe that it has been 3 years since I started working at IBM Quantum. But at the same time, the last 3 years felt like a lifetime, I guess it's not just for me, but also most people in the world. When I started working in March 2020, COVID just started and no one could anticipate that it would evolve into a global pandemic. Well, the good news is that, 3 years later, we have learned to live with it and things are getting back to normal though the "norm" will never be the same.
+It's that time of the year again. Today is my third working anniversary (actually I am exactly 1 week late). It's hard to believe that it has been 3 years since I started working at IBM Quantum. But at the same time, the last 3 years felt like a lifetime, I guess it's not just for me, but also most people in the world. When I started working in March 2020, COVID just started and no one could anticipate that it would evolve into a global pandemic. Well, the good news is that, 3 years later, we have learned to live with it and things are getting back to normal though the "norm" will never be the same.
 
 I wrote [a blog post]({{< ref "first-work-anniversary-at-ibm-quantum" >}}) for my 1-year working anniversary. I was planning to write every year. In fact, I wrote a draft last year but I got lazy and the post never made it to the light. On the bright side, I have more things to say today :D.
 
