@@ -77,6 +77,12 @@ Similar to tackling gaming backlogs, sometimes it's difficult to decide on which
 
 If you find this interesting, feel free to duplicate the project board and start your own Qiskit GitHub Challenge!
 
+## New Personal Website
+
+![New Personal Website Homepage](new-personal-website-homepage.png)
+
+To celebrate the work anniversary, I migrated my personal website from Jekyll to Hugo (inspired by https://pradyunsg.me/). The build is lightning fast. It takes only 103 ms to build the entire site and only 16s to deploy the pages using GitHub workflow. I love the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod/). When I get some time, I will work on other pages of the website.
+
 ## Official Celebration Page
 
 Lastly, I want to share my 3-year IBM Service Anniversary [celebration page](https://ibmrr.performnet.com/ibmrr/celebrationRecipient.do?clientState=IxWdHbAWxIUMwmIJJX6mdUKXzCMz4cxX0iIfJZBRLoyOzifglzuy7e8tJmg1SSjjMz%2BBM2KXMHxc%0A6YvTP1ULF4pidE7jAxG1r7Z1wdGoL%2BkFJP7cgoG9HnBUseYV9rpPsWxRjoEL0epJhBQFtqKYhoiQ%0AhkPoUUi1dLqpq7K73thKgNv73utSvta%2BOcxRQiHxCyZSZYnTU3eXTNhl&cryptoPass=1). I didn't expect to receive so many heart-warming messages from colleagues. Thank you very much for making this job so awesome!
