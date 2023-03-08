@@ -4,12 +4,15 @@ title: Junye Huang
 theme: "PaperMod"
 
 params:
+  description: Junye Huang's Personal Website
+  images:
+    - profile-photo.jpg
   defaultTheme: auto
   ShowCodeCopyButtons: true
   profileMode:
     enabled: true
     subtitle: Quantum Developer Advocate, IBM Quantum
-    imageUrl: https://avatars.githubusercontent.com/u/7631333?v=4
+    imageUrl: c
   
   socialIcons:
     - name: KoFi
