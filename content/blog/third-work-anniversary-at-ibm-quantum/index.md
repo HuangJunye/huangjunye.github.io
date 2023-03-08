@@ -1,6 +1,6 @@
 ---
 title: Third Work Anniversary at IBM Quantum
-date: 2023-03-09
+date: 2023-03-08
 tags:
 - ibm quantum
 - qiskit
@@ -76,6 +76,12 @@ This is more just for fun and for self-development. Inspired by a [gaming challe
 Similar to tackling gaming backlogs, sometimes it's difficult to decide on which issue to work on for an open-source contribution. These challenge categories help me narrow down the issues to tackle and also make the process a bit more fun and force me to discover something that I normally wouldn't work on.
 
 If you find this interesting, feel free to duplicate the project board and start your own Qiskit GitHub Challenge!
+
+## New Personal Website
+
+![New Personal Website Homepage](new-personal-website-homepage.png)
+
+To celebrate the work anniversary, I migrated my personal website from Jekyll to Hugo (inspired by https://pradyunsg.me/). The build is lightning fast. It takes only 103 ms to build the entire site and only 16s to deploy the pages using GitHub workflow. I love the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod/). When I get some time, I will work on other pages of the website.
 
 ## Official Celebration Page
 
