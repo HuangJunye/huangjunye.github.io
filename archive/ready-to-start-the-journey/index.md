@@ -1,6 +1,7 @@
 ---
 title: 真的要上路了吗?
 date: 2014-06-27 12:48:33.000000000 +08:00
+draft: true
 tags:
 - physics
 ---
