@@ -1,6 +1,7 @@
 ---
 title: 博士中期考核
 date: 2018-12-04
+draft: true
 tags:
 - phd
 ---
