@@ -12,6 +12,8 @@ It’s that time of the year again. Hard to believe, but I’ve already been at 
 
 Five years ago today, I quit my PhD and started my first real job at IBM Quantum. I was still in Singapore. I arrived at the office early, 8 am, got my badge and laptop, met my local manager and teammates. My plan was to hit the ground running: APS March Meeting was happening the next week, followed immediately by Qiskit Camp. I was thrilled to return to Qiskit Camp, which I had attended just a year earlier as a participant. Back then, I built a small game called QPong. Not many people noticed it at the time, but it ended up changing my life forever. This time, I was going back as part of the IBM Quantum organizing team.
 
+{{< tweet HuangJunye 1234423808313839619 >}}
+
 My first big project was supposed to be organizing Qiskit Camp Asia 2020 in Singapore—right on top of the iconic Marina Bay Sands. But none of that happened, We all know why: COVID. APS March Meeting was cancelled just days before it was set to start and Qiskit Camp followed. After hosting four Qiskit Camps in 2019 across four continents, we've never had another since.
 
 So, my job started with a dramatic twist, but don't worry, I am not here to write a full autobiography. Instead, let me share a few key highlights from the last five years.
@@ -31,6 +33,8 @@ I leaned toward the people management side for a few reasons:
 3. People management was new to me, so I wanted to improve. 
 
 While my team was happy with me as a manager, externally, I wasn’t always seen as technically strong or strategic. Since returning to an IC role, I’ve led the inaugural IBM Quantum Developer Conference, formed a cross-functional squad to oversee coding challenges, and designed an educational initiative to upskill client ecosystems. With fewer admin tasks, I have more time to focus on technical content and strategic projects. And my experience as a manager wasn’t wasted—I now understand leadership better and feel more prepared if I take on the role again in the future.
+
+![]()
 
 ### Coding Challenges
 
@@ -69,6 +73,8 @@ A lot happened outside of work too:
 - Turned 30 (so old!).
 - Survived the pandemic (remember that?).
 - Became a Spanish citizen.
+
+{{< tweet HuangJunye 1547976118593994752 >}}
 
 One goal I haven’t met? Visiting more countries than my age. Five years ago, I was at 23 countries and 27 years old. Now I’m at 28 countries and 32 years old. The same gap remains. But with a Spanish passport and easy EU travel, I should hit this goal soon.
 
