@@ -14,7 +14,7 @@ It’s that time of the year again. Hard to believe, but I’ve already been at 
 
 Five years ago today, I quit my PhD and started my first real job at IBM Quantum. I was still in Singapore. I arrived at the office early, 8 am, got my badge and laptop, met my local manager and teammates. My plan was to hit the ground running: APS March Meeting was happening the next week, followed immediately by Qiskit Camp. I was thrilled to return to Qiskit Camp, which I had attended just a year earlier as a participant. Back then, I built a small game called QPong. Not many people noticed it at the time, but it ended up changing my life forever. This time, I was going back as part of the IBM Quantum organizing team.
 
-{{< tweet HuangJunye 1234423808313839619 >}}
+{{< x user="HuangJunye" id="1234423808313839619" >}}
 
 My first big project was supposed to be organizing Qiskit Camp Asia 2020 in Singapore—right on top of the iconic Marina Bay Sands. But none of that happened, We all know why: COVID. APS March Meeting was cancelled just days before it was set to start and Qiskit Camp followed. After hosting four Qiskit Camps in 2019 across four continents, we've never had another since.
 
@@ -58,7 +58,7 @@ I’ve contributed 48 PRs, 14k+ lines of code, and a couple of tutorials/guides,
 
 One contribution I’m particularly proud of is the Fake Provider/Backends. Originally, the `test.mock` module was meant for software testing, but users started using it for benchmarking real hardware results. I led the effort to [migrate it out of the test module](https://github.com/Qiskit/qiskit/pull/8121), introduced [`BackendV2` versions](https://github.com/Qiskit/qiskit/pull/7643), and collaborated with a Qiskit Advocate under QAMP to [generate more robust fake backends](https://github.com/Qiskit/qiskit/pull/10266). These contributions have since been [integrated into qiskit-ibm-runtime](https://github.com/Qiskit/qiskit-ibm-runtime/pull/1140) and later evolved into the local test mode, helping users test their code before running on real quantum hardware.
 
-{{< tweet HuangJunye 1539882673879093249>}}
+{{< x user="HuangJunye" id="1539882673879093249">}}
 
 ## Challenges
 
@@ -80,7 +80,7 @@ A lot happened outside of work too:
 - Survived the pandemic (remember that?).
 - Became a Spanish citizen.
 
-{{< tweet HuangJunye 1547976118593994752 >}}
+{{< x user="HuangJunye" id="1547976118593994752" >}}
 
 One goal I haven’t met? Visiting more countries than my age. Five years ago, I was at 23 countries and 27 years old. Now I’m at 28 countries and 32 years old. The same gap remains. But with a Spanish passport and easy EU travel, I should hit this goal soon.
 

@@ -32,7 +32,7 @@ Around May, I contacted Suzie Kirschner, the Qiskit Global Event Lead, to discus
 Hackathon. But the planning really kicked off after I saw a tweet by Anurag, then a Research
 Assistant at the CQT, making a petition to host a Qiskit Hackathon in Singapore.
 
-{{< tweet anuragsaharoy 1182277725022609409 >}}
+{{< x user="anuragsaharoy" id="1182277725022609409" >}}
 
 We then teamed up and quickly got the support from both CQT and Qiskit. With the expert guidance of Evon Tan from CQT, Yuri Kobayashi and Brian Ingmanson from Qiskit, the planning moved on quickly. And the rest is history (that you can read [here](https://medium.com/qiskit/roundup-of-qiskit-hackathon-singapore-de651921f2cd) and [here](https://www.quantumlah.org/about/highlight/2019-10-hackathon-quantum-coding)!).
 
@@ -74,7 +74,7 @@ Nothing in quantum computing is ugly, since [IBM Q System One](https://en.wikipe
 
 Apart from organising, I also had the chance to coach a few teams that were working on games (4 out of 10 teams!). Although I wasn't hacking alongside them, I could go to discuss with each team regularly. This was not only to check their progress and provide feedback, but also to have some fun playing their games!
 
-{{< tweet HuangJunye 1183084232232460288 >}}
+{{< x user="HuangJunye" id="1183084232232460288" >}}
 
 I found this process to be empowering. Even with my own limited experience of Qiskit and game development, I could help the teams to focus on the essence of their projects provide ideas for improvement. My role also entailed debugging their codes and making suggestions for their final presentation.
 

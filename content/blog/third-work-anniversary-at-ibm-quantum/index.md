@@ -22,7 +22,7 @@ Just like last time, let's start with some bullet points highlights (because bul
 	- Spanish people are friendly. Daily interactions with strangers and acquaintances are much more pleasant than in Singapore even though speaking Spanish is still a challenge for me. 
 	- Another huge benefit is the time zone. In Singapore, I often need to work from 9 pm till midnight because most meetings happen in the US morning time, whereas the same meetings happen in Europe afternoons. Therefore I can work normal hours in Spain, disconnect from work and have a much better work-life balance.
 
-{{<tweet HuangJunye 1547976118593994752 >}}
+{{<x user="HuangJunye" id="1547976118593994752" >}}
 
 - **Changed team**, from APAC community team to Qiskit Developer Advocacy team, still under the same, broader IBM Quantum Community Team. Now I work less on events and more with code and content.
 - **Led the team behind [IBM Quantum Challenge May 2021](https://research.ibm.com/blog/quantum-challenge-2021-results).** Learned a ton of things about leading a big cross-functional team. It is still one of my biggest (if not the biggest) achievements to date. For this and involvement in other challenges, I received IBM Research Accomplishment Award in 2022.
@@ -37,7 +37,7 @@ Just like last time, let's start with some bullet points highlights (because bul
 - I earned the [second like](https://twitter.com/HuangJunye/status/1426565775695831045/likes) (the first like [here](https://twitter.com/HuangJunye/status/1310765609769029632?s=20)) from Peter Shor by posting a joke of vi and emacs.
 - More fun stuff. I made pineapple tarts with the Qiskit logo design after the Chinese New Year in 2021.
 
-{{< tweet HuangJunye 1365328689609601024 >}}
+{{< x user="HuangJunye" id="1365328689609601024" >}}
 
 ## What have I learned?
 
