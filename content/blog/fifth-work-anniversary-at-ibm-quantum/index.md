@@ -8,6 +8,8 @@ tags:
 
 It’s that time of the year again. Hard to believe, but I’ve already been at IBM Quantum for five years. Five years is a long time, especially these days when people switch jobs every year or so. This is my second longest affiliation ever, including my studies and work. The longest was at Nanyang Technological University, where I spent 5.5 years (six-month bridging course, four years undergrad, and a year as a research assistant). I changed primary schools, left my PhD after 3.5 years, so I have never stayed anywhere outside NTU longer than five years.
 
+![IBM Service Anniversary Celebration Page](ibm_service_anniversary_celebration_page.png)
+
 ## A Dramatic Beginning
 
 Five years ago today, I quit my PhD and started my first real job at IBM Quantum. I was still in Singapore. I arrived at the office early, 8 am, got my badge and laptop, met my local manager and teammates. My plan was to hit the ground running: APS March Meeting was happening the next week, followed immediately by Qiskit Camp. I was thrilled to return to Qiskit Camp, which I had attended just a year earlier as a participant. Back then, I built a small game called QPong. Not many people noticed it at the time, but it ended up changing my life forever. This time, I was going back as part of the IBM Quantum organizing team.
@@ -34,7 +36,7 @@ I leaned toward the people management side for a few reasons:
 
 While my team was happy with me as a manager, externally, I wasn’t always seen as technically strong or strategic. Since returning to an IC role, I’ve led the inaugural IBM Quantum Developer Conference, formed a cross-functional squad to oversee coding challenges, and designed an educational initiative to upskill client ecosystems. With fewer admin tasks, I have more time to focus on technical content and strategic projects. And my experience as a manager wasn’t wasted—I now understand leadership better and feel more prepared if I take on the role again in the future.
 
-![]()
+![kudoboard for being apac lead](kudoboard_for_being_apac_lead.png)
 
 ### Coding Challenges
 
@@ -44,15 +46,19 @@ Over time, I took on a more significant role, eventually forming a dedicated Cod
 
 Because of my work on QGSS and IQC, I received O-level (highest level) and A-level achievement awards from IBM Research. It shows that IBM values these efforts, which means a lot to me. 
 
+![](qgss_o-level_achievement.png)
+
 ### Qiskit Advocate Program
 
-As part of the Qiskit Advocate Squad, I helped manage the Qiskit Advocate Program for a couple of years. I designed and launched the Qiskit Advocate Mentorship Program (QAMP), which paired advocates worked with IBM experts on software and research projects. These collaborations led to multiple open-source contributions to Qiskit and Qiskit ecosystem, peer-reviewed papers, and, more importantly, helped some advocates kickstart their careers. Some landed jobs at IBM, Google, Xanadu, and IonQ.
+As part of the Qiskit Advocate Squad, I helped manage the Qiskit Advocate Program for a couple of years. I designed and launched the [Qiskit Advocate Mentorship Program (QAMP)](https://github.com/qiskit-advocate/qamp-spring-21), which paired advocates worked with IBM experts on software and research projects. These collaborations led to multiple open-source contributions to Qiskit and Qiskit ecosystem, peer-reviewed papers, and, more importantly, helped some advocates kickstart their careers. Some landed jobs at [IBM](https://www.linkedin.com/in/albertomaldonadoromo/), [Google](https://www.linkedin.com/in/ivan-carvalho/), and [IonQ](https://www.linkedin.com/in/splcher/).
 
 ### Qiskit open source contributions
 
 I’ve contributed 48 PRs, 14k+ lines of code, and a couple of tutorials/guides, making me one of [the top 40 contributors of all time](https://github.com/Qiskit/qiskit/graphs/contributors?from=2%2F1%2F2017&to=3%2F1%2F2025) (top 10 if [narrowing the time window](https://github.com/Qiskit/qiskit/graphs/contributors?from=1%2F1%2F2022&to=8%2F1%2F2023) to the period (Jan 2022 to Aug 2023) I was very active) to Qiskit. Not a lot, but given that most of these were side projects, I’m incredibly proud.
 
 One contribution I’m particularly proud of is the Fake Provider/Backends. Originally, the `test.mock` module was meant for software testing, but users started using it for benchmarking real hardware results. I led the effort to [migrate it out of the test module](https://github.com/Qiskit/qiskit/pull/8121), introduced [`BackendV2` versions](https://github.com/Qiskit/qiskit/pull/7643), and collaborated with a Qiskit Advocate under QAMP to [generate more robust fake backends](https://github.com/Qiskit/qiskit/pull/10266). These contributions have since been [integrated into qiskit-ibm-runtime](https://github.com/Qiskit/qiskit-ibm-runtime/pull/1140) and later evolved into the local test mode, helping users test their code before running on real quantum hardware.
+
+{{< tweet HuangJunye 1539882673879093249>}}
 
 ## Challenges
 
@@ -85,3 +91,5 @@ If you’ve read my past anniversary blogs, there is always a game element. Afte
 Can you believe I still haven’t beaten Breath of the Wild? I bought it to celebrate starting this job five years ago, played dozens of hours, defeated a few Divine Beasts—but never finished it. Meanwhile, I got a PS5 for my 30th birthday, played a bunch of AAA games, and recently got tired of them. They demand too much time. So, I’m back to handhelds. Initially, I wanted to mod my OG GBA with a backlit screen but ended up buying a retro handheld clone. Now I can finally play Golden Sun, a game I bought years ago but never played because of the lack of a backlit screen. Hopefully, I’ll finish it this time. Wish me luck!
 
 Until next time.
+
+![](golden_sun.jpg)
