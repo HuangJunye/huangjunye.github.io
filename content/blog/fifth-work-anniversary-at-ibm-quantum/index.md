@@ -6,58 +6,76 @@ tags:
 - qiskit
 ---
 
-It’s this time of the year again. And it’s really hard to believe that I have already worked in IBM Quantum for 5 years. 5 year is a long time, especially for this day and age where people often change companies every year or so. It’s actually the second affiliation I have ever had, including my studies and work. The longest is Nanyang Technological University where I did a 6 month bridging course, 4 years undergraduate and 1 year of research assistant (so it’s 5.5 years, not much longer than 5 years). I changed school in primary school and quit PhD after 3.5 years so I haven’t spent longer than 5 years in any school. 
+It’s that time of the year again. Hard to believe, but I’ve already been at IBM Quantum for five years. Five years is a long time, especially these days when people switch jobs every year or so. This is my second longest affiliation ever, including my studies and work. The longest was at Nanyang Technological University, where I spent 5.5 years (six-month bridging course, four years undergrad, and a year as a research assistant). I changed primary schools, left my PhD after 3.5 years, so I have never stayed anywhere outside NTU longer than five years.
 
-As I alluded earlier, 5 years ago today, I quit PhD and started my first real job at IBM Quantum. I was still in Singapore. I went to the office early, 8am, got my badge and laptop, met my local manager and team mates. I was planning to start my first work trip immediately: APS March meeting is happening the next week and Qiskit Camp is immediately after. I was super excited to go back to Qiskit Camp, where I attended only one year earlier as a participant and made a little game called QPong that not many people cared at the time but it changed my life forever. It would be a perfect full cycle to go back and attend again, this time as part of the organizing team in IBM. My first big project was supposed to be organizing Qiskit Camp Asia 2020 in Singapore, on top of the iconic Marina Bay Sand. But none of this happened, and we all know why: COVID. APS March meeting was cancelled on the weekends before it starts. Qiskit camp followed suit. After 4 Qiskit camps in just one year in 2019 across 4 continents, we never have another again. 
+## A Dramatic Beginning
 
-So this was a dramatic beginning for my job and for this blog post. Don’t worry. I am not writing a biography about my life of the last 5 years. Let me just highlight a few things.
+Five years ago today, I quit my PhD and started my first real job at IBM Quantum. I was still in Singapore. I arrived at the office early, 8 am, got my badge and laptop, met my local manager and teammates. My plan was to hit the ground running: APS March Meeting was happening the next week, followed immediately by Qiskit Camp. I was thrilled to return to Qiskit Camp, which I had attended just a year earlier as a participant. Back then, I built a small game called QPong. Not many people noticed it at the time, but it ended up changing my life forever. This time, I was going back as part of the IBM Quantum organizing team.
+
+My first big project was supposed to be organizing Qiskit Camp Asia 2020 in Singapore—right on top of the iconic Marina Bay Sands. But none of that happened, We all know why: COVID. APS March Meeting was cancelled just days before it was set to start and Qiskit Camp followed. After hosting four Qiskit Camps in 2019 across four continents, we've never had another since.
+
+So, my job started with a dramatic twist, but don't worry, I am not here to write a full autobiography. Instead, let me share a few key highlights from the last five years.
 
 ## Highlights
 
-### From IC to manager and back
+### From IC to Manager and Back
 
-Worked in multiple teams and multiple roles due to personal interest, promotion and re-organization. I started as an individual contributor (IC), became a manager for a year and now back to an IC. I enjoyed being a manager, felt fulfilled that I could help my team members to navigate complex situations, help them understand our corporate strategies and identify projects and approaches can best combine their passion with business objectives to make them motivated and deliver good business results. However, now that I am back to an IC, I appreciate having more time for technical hands-on work and strategic thinking. Shouldn’t a manager be spending more time on strategic thinking than an IC? Maybe. Strictly speaker, a typical manager in a tech company actually have two roles as one: people manager and team lead. People managers have administrative duty to approve annual leaves, evaluate performance, review salary and promotion, make sure employees stay motivated, hire new employees and interns. Team leads define objectives and key results (metrics) and therefore set strategic directions. Ideally these two roles are fulfilled by two different people but in reality it’s often fall into the same person, especially when the team is small (<10 people). And both roles demand full time job. So depending on the managers, you focus on one of the roles or the other. If you want to do both well, you need to overwork a lot. I was focusing more on the people manager role for a few reasons: 1) we had an organizational change at that time and employees need a lot of attention to help them understand the change and adapt. 2) I was on intermittent paternity leaves so I had limited time to work 3) this role is newer to me than the other role (setting technical direction) so I wanted to dedicated to time to improve it. What ended up happening is that my employees are happy for me as a manager but external to the team, I was not seen as someone who are technically capable and strategic in leading a team for great business results. Since becoming an IC again, I led the design and execution of the first IBM Quantum Developer Conference, rally to form a cross-functional squad to oversee coding challenges (which I’ll talk more immediately after this section) to ensure these events aligned to business strategy, get enough resources and support, plan well ahead and smoothly executed, I designed a new educational offering to upskill users in our important clients’ ecosystem from beginners to intermediate which is a pain point for many clients. As an IC, I am excused from administrative overhead and have more time to focus on creating technical content, setting and executing strategic projects and demonstrating better business results. And it was not a waste of being a manager for a year. Now I understand more how it’s like, appreciate more what my managers behave and understand their actions. And if I feel like doing it again, I am confident that I can do a good job as a manager, and hopefully can combine the two roles in a better way than I did the first time.
+Over these five years, I’ve worked in multiple teams and roles—some by choice, some due to reorganization. I started as an individual contributor (IC), became a manager for a year, and then returned to an IC role. Being a manager was fulfilling. I enjoyed guiding my team, helping them navigate complex situations, and aligning their passions with business goals. But now that I’m back to being an IC, I appreciate having more time for hands-on work and strategic thinking.
+
+Shouldn’t managers focus on strategy? You may ask. Ideally, yes. But in tech companies, managers often juggle two roles: people manager and team lead. People managers handle HR-related tasks—approving leaves, evaluating performance, reviewing salaries, hiring. Team leads define objectives, set strategic directions, and align projects with company goals. These should be separate roles, but when teams are small (<10 people), they often fall on the same person. And doing both well means overworking.
+
+I leaned toward the people management side for a few reasons:
+
+1. we had an organizational change at the same time when I was promoted to be a manager, and my team needed support.
+2. I was on intermittent paternity leave and had limited work hours.
+3. People management was new to me, so I wanted to improve. 
+
+While my team was happy with me as a manager, externally, I wasn’t always seen as technically strong or strategic. Since returning to an IC role, I’ve led the inaugural IBM Quantum Developer Conference, formed a cross-functional squad to oversee coding challenges, and designed an educational initiative to upskill client ecosystems. With fewer admin tasks, I have more time to focus on technical content and strategic projects. And my experience as a manager wasn’t wasted—I now understand leadership better and feel more prepared if I take on the role again in the future.
 
 ### Coding Challenges
 
-Coding Challenges. I was slightly involved in the first IBM Quantum Challenge and Qiskit Global Summer School in 2020, which were new types of online events we designed to continue engaging our community during the pandemic. These events turned out to be hugely successful and helped Qiskit and IBM Quantum grew to be truly global. I got more heavily involved in challenges over the year. And I am very happy that we formed a coding challenge squad to oversee the planning of IBM Quantum Challenge, Qiskit Global Summer School and the new IBM Quantum Developer Conference last November. QDC was the closrst event in spirit to Qiskit Camp that we have done since the last Qiskit Camp, and we got to invite dozens of Qiskit advocates to participates and I got to meet most of them in person for the first time was really a highlight of last year.
+My involvement in IBM Quantum Challenges (IQC) and the Qiskit Global Summer School (QGSS) started in 2020 when we introduced these online events to keep our community engaged during the pandemic. These initiatives turned out to be hugely successful, helping Qiskit and IBM Quantum establish a truly global presence.
 
-Because of my involvement in IQC and QGSS, I received O-level (highest level) and A-level achievement award from IBM Research. To give you some idea of these achievements: (examples of other achievement). I am super proud of these achievements. Not because I think I did something incredible but because IBM cares about these efforts and recognizing them.
+Over time, I took on a more significant role, eventually forming a dedicated Coding Challenge Squad to oversee the planning of major events, including IQC, QGSS, and the IBM Quantum Developer Conference (QDC). QDC was the closest thing we’ve had to a Qiskit Camp since 2019, and meeting so many Qiskit Advocates in person for the first time was a highlight of my year.
+
+Because of my work on QGSS and IQC, I received O-level (highest level) and A-level achievement awards from IBM Research. It shows that IBM values these efforts, which means a lot to me. 
 
 ### Qiskit Advocate Program
 
-I managed the Qiskit Advocate program for a couple of years as part of the advocate squad. I designed and implemented the Qiskit Advocate Mentorship Program (QAMP) where advocates work with IBM experts and other advocates mentors on software and research projects. These projects resulted in multiple open source projects, a few peer-reviewed publications and more importantly, they help a few advocates to kick start their quantum career and landed jobs in the industry including IBM, Google, Xanadu, IonQ. 
+As part of the Qiskit Advocate Squad, I helped manage the Qiskit Advocate Program for a couple of years. I designed and launched the Qiskit Advocate Mentorship Program (QAMP), which paired advocates worked with IBM experts on software and research projects. These collaborations led to multiple open-source contributions to Qiskit and Qiskit ecosystem, peer-reviewed papers, and, more importantly, helped some advocates kickstart their careers. Some landed jobs at IBM, Google, Xanadu, and IonQ.
 
 ### Qiskit open source contributions
 
-I contributed xx PRs, xx lines of codes and xx tutorials / guides. I am #15 contributors of all time for Qiskit. Considering that I did most of these as side projects. I am really proud. The contribution I most proud of are the fake provider / backends. I helped migrated the modules out of the test.mock module which were designed to be for software mock testing not for simulation or benchmarking. But this module became popular among users for benchmarking with real hardware results. So I helped migrated it out of the test mock module, added BackendV2 versions of the all fake backends. I also continued working with a Qiskit advocate under QAMP to generate fake backends that are useful for more robust testing for continuous integration for Qiskit development. And the fake ibm backends have since been moved to qiskit-ibm-runtime package and now being used extensively as part of the local test mode for users to test their code before running on real hardware. On top of that I am happy to receive an award recognizing my contribution to the open source.
+I’ve contributed 48 PRs, 14k+ lines of code, and a couple of tutorials/guides, making me one of [the top 40 contributors of all time](https://github.com/Qiskit/qiskit/graphs/contributors?from=2%2F1%2F2017&to=3%2F1%2F2025) (top 10 if [narrowing the time window](https://github.com/Qiskit/qiskit/graphs/contributors?from=1%2F1%2F2022&to=8%2F1%2F2023) to the period (Jan 2022 to Aug 2023) I was very active) to Qiskit. Not a lot, but given that most of these were side projects, I’m incredibly proud.
+
+One contribution I’m particularly proud of is the Fake Provider/Backends. Originally, the `test.mock` module was meant for software testing, but users started using it for benchmarking real hardware results. I led the effort to [migrate it out of the test module](https://github.com/Qiskit/qiskit/pull/8121), introduced [`BackendV2` versions](https://github.com/Qiskit/qiskit/pull/7643), and collaborated with a Qiskit Advocate under QAMP to [generate more robust fake backends](https://github.com/Qiskit/qiskit/pull/10266). These contributions have since been [integrated into qiskit-ibm-runtime](https://github.com/Qiskit/qiskit-ibm-runtime/pull/1140) and later evolved into the local test mode, helping users test their code before running on real quantum hardware.
 
 ## Challenges
 
-Of course not everything is perfect. Sometimes I miss the days of 2019/2020 where we can do things that are cool and fun because they meet our goals of raising awareness of quantum computing and Qiskit. Nevertheless, I am excited that we are heading towards quantum advantage quickly and I get to play a part in educating and enabling people to use quantum computers for useful purposes.
+Of course, not everything is perfect. Sometimes I miss the days of 2019/2020 when we could build fun, experimental things that aligned with our goals of raising awareness of quantum computing and Qiskit.  But as we move toward quantum advantage, I’m excited to help users do meaningful work with quantum computing.
 
-Another challenge I am facing is due to my dual roles. I love that I can travel from time to time and conduct in person workshop and interact with people in person as EMEA advocate. I also love being able to lead and plan large scale coding challenges like challenge, summer school and QDC. I get to work with a large global team, understand cutting edge technology and design lectures and labs that are engaging. But sometimes these two roles have conflicts and can make my life a bit stressful. But overall I like the dual role, makes my work more dynamic and interesting. I am still new to these two roles and I can already see ways to serve the two roles with the same work. I guess I’ll find out more by the end of the year.
+Another challenge? Balancing my dual roles. As an EMEA advocate, I love traveling and running in-person workshops. As a coding challenge lead, I enjoy working with a global team, designing engaging lectures and labs, and staying at the cutting edge of quantum tech. But these two roles sometimes conflict, making life stressful. Still, I like the variety, and I’m figuring out how to make them complement each other. By the end of this year, I should have a better sense of how to integrate them.
 
+## Looking Ahead
 
-## What I am looking forward to
+Despite changing teams and roles, I’ve stayed true to my mission since the beginning: helping people get into quantum computing. I’m excited about rolling out new educational programs and especially looking forward to the International Year of Quantum. It’s going to be a great year!
 
-Even though I have changed teams and roles multiple times in the past 5 years, I am happy to say that I stay true to my heart: I want to help people get into quantum computing. I am excited to starting rollout educational programs to upskill more users from clients’ ecosystem. And I am super excited for what we have in store for the international year of quantum. There is a great year ahead of us! 
+## Life Beyond Work
 
-## Life
+A lot happened outside of work too:
 
-That was all about work, but there were also a lot of things happened in my life in the last 5 years.
+- My two daughters were born.
+- Moved from Singapore to Spain.
+- Turned 30 (so old!).
+- Survived the pandemic (remember that?).
+- Became a Spanish citizen.
 
-- My two daughters were born
-- Moved across the continents from Singapore to Spain
-- Became Spanish citizen
-- I am now over 30 years old, So old!
-- Survived the pandemic(remember that?!)
+One goal I haven’t met? Visiting more countries than my age. Five years ago, I was at 23 countries and 27 years old. Now I’m at 28 countries and 32 years old. The same gap remains. But with a Spanish passport and easy EU travel, I should hit this goal soon.
 
-Still haven’t achieved the goal of traveling to more countries than my age. When I started 5 years ago, I was at 23 countries and 27 years old and hoping to meet this goal soon, but obviously COVID happened and I couldn’t travel much. 
-
-I am now at 28 countries of 32 years old. So the gap is the same as what I started 5 years ago. But this should be an easy goal to achieve, now that I am living in Europe and don’t need a visa for travel for most countries with Spanish passport. Hope I’ll achieve this in the next 5 years!
 ## Games
 
-If have read my previous anniversary blogs, you know that I always end with video games. After all making a video game for quantum computer was how I got into IBM Quantum in the first place. 
+If you’ve read my past anniversary blogs, there is always a game element. After all, making a quantum video game is how I got into IBM Quantum in the first place.
 
-Can you believe that I still haven’t beaten Breadth of the Wild which was the game I bought to celebrate starting my job 5 years ago? I played dozens of hours and beat a few monster temples but for some reasons just can’t get myself to beat the game. In the intertwining years, I jumped to the Sony camp and got PS5 as my 30th birthday gift and played a lot of AAA games and enjoyed them. But recently I got tired of them. They are too demanding of my time and it’s hard to get into the game if I am not playing it everyday. So I am getting back to Nintendo and handhelds. Initially I wanted to mod my OG GBA with backlit screen but ended up buying a retro handheld that is almost an exact clone of the OG GBA. I can finally play the Golden Sun that I have gotten a few years back but couldn’t play due to the lack of backlit screen. Hope I’ll beat this game this time :) Wish me luck! Until next time.
+Can you believe I still haven’t beaten Breath of the Wild? I bought it to celebrate starting this job five years ago, played dozens of hours, defeated a few Divine Beasts—but never finished it. Meanwhile, I got a PS5 for my 30th birthday, played a bunch of AAA games, and recently got tired of them. They demand too much time. So, I’m back to handhelds. Initially, I wanted to mod my OG GBA with a backlit screen but ended up buying a retro handheld clone. Now I can finally play Golden Sun, a game I bought years ago but never played because of the lack of a backlit screen. Hopefully, I’ll finish it this time. Wish me luck!
+
+Until next time.
