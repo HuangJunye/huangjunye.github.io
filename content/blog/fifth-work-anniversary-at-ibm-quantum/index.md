@@ -52,6 +52,8 @@ Because of my work on QGSS and IQC, I received O-level (highest level) and A-lev
 
 As part of the Qiskit Advocate Squad, I helped manage the Qiskit Advocate Program for a couple of years. I designed and launched the [Qiskit Advocate Mentorship Program (QAMP)](https://github.com/qiskit-advocate/qamp-spring-21), which paired advocates worked with IBM experts on software and research projects. These collaborations led to multiple open-source contributions to Qiskit and Qiskit ecosystem, peer-reviewed papers, and, more importantly, helped some advocates kickstart their careers. Some landed jobs at [IBM](https://www.linkedin.com/in/albertomaldonadoromo/), [Google](https://www.linkedin.com/in/ivan-carvalho/), and [IonQ](https://www.linkedin.com/in/splcher/).
 
+![](advocates_at_qdc.jpg)
+
 ### Qiskit open source contributions
 
 I’ve contributed 48 PRs, 14k+ lines of code, and a couple of tutorials/guides, making me one of [the top 40 contributors of all time](https://github.com/Qiskit/qiskit/graphs/contributors?from=2%2F1%2F2017&to=3%2F1%2F2025) (top 10 if [narrowing the time window](https://github.com/Qiskit/qiskit/graphs/contributors?from=1%2F1%2F2022&to=8%2F1%2F2023) to the period (Jan 2022 to Aug 2023) I was very active) to Qiskit. Not a lot, but given that most of these were side projects, I’m incredibly proud.
